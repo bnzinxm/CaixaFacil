@@ -2,6 +2,7 @@
 Um sistema PDV completo!
 -
 ![Logo](<./markdown/banner.png>)
+<br>
 CaixaFácil é um sistema simples de PDV (Ponto de Venda) desenvolvido para gerenciar produtos e vendas, com funcionalidades de registro de produtos, registro de vendas e itens de cada venda. O sistema utiliza um banco de dados MySQL para armazenar as informações.
 ## Como Usar no Supermercado
 ### 1. **Adicionar Produtos**
